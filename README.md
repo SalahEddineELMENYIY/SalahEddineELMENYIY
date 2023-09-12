@@ -1,4 +1,4 @@
-<img align-"center" width-"100%" src="Make your README.png">
+<img align-"center" src="Make your README.png">
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SalahEddineELMENYIY](https://github.com/SalahEddineELMENYIY)
