@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋, je suis Salah Eddine EL MENYIY</h1>
 <h3 align="center">Passionné par le développement mobile, j'ai une expérience pratique en développement Full Stack MERN ainsi qu'en programmation C++, C et Java.</h3>
-<img align-"right" width-"400" src="https://www.freepik.com/free-vector/cartoon-working-day-scene-illustration_13900045.htm#query=animation%20programmer&position=29&from_view=search&track=ais">
+<img align-"right" width-"400" src="[https://www.freepik.com/free-vector/cartoon-working-day-scene-illustration_13900045.htm#query=animation%20programmer&position=29&from_view=search&track=ais](https://img.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62609.jpg?w=900&t=st=1694535661~exp=1694536261~hmac=bf95c8feb62f081e61af38211e3bedbd1f1650dd409badfc3435aa72d3240c59)">
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SalahEddineELMENYIY](https://github.com/SalahEddineELMENYIY)
