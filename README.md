@@ -1,4 +1,4 @@
-<img align-"center" src="bann.png">
+<img src="bann.png">
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SalahEddineELMENYIY](https://github.com/SalahEddineELMENYIY)
