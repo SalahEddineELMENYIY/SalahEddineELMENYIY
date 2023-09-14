@@ -1,4 +1,4 @@
-<img align-"center" src="https://github.com/SalahEddineELMENYIY/SalahEddineELMENYIY/blob/cea0f48fb71b3bcbc4200d48bf20b9af95bf8cb8/Make%20your%20README.png">
+<img align-"center" src="Make%20your%20README.png">
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SalahEddineELMENYIY](https://github.com/SalahEddineELMENYIY)
